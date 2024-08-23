@@ -7,10 +7,10 @@ This project is a Python-based Selenium automation script designed to interact w
 
 The primary objective of this project is to automate a typical e-commerce user flow:
 
-Logging In: The script automates the process of logging into the Sauce Demo website using predefined credentials.
+1.Logging In: The script automates the process of logging into the Sauce Demo website using predefined credentials.
 
-Adding Items to Cart: Once logged in, the script selects a product from the inventory and adds it to the shopping cart.
+2.Adding Items to Cart: Once logged in, the script selects a product from the inventory and adds it to the shopping cart.
 
-Checkout Process: The script navigates through the checkout process, filling out necessary customer information such as first name, last name, and postal code.
+3.Checkout Process: The script navigates through the checkout process, filling out necessary customer information such as first name, last name, and postal code.
 
-Order Confirmation: The script completes the purchase and verifies that the order was placed successfully by checking for the confirmation text "Thank you for your order!".
+4.Order Confirmation: The script completes the purchase and verifies that the order was placed successfully by checking for the confirmation text "Thank you for your order!".
